@@ -2,7 +2,7 @@ version: 0.0
 os: windows
 files:
   - source: \
-    destination: C:\ExploringAspNetCore\codedeployapp\src\SampleApp
+    destination: C:\ExploringAspNetCore\publish\codedeployapp\src\SampleApp
 hooks:
   ApplicationStop:
     - location: .\RemoveApp.ps1
