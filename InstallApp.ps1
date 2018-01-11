@@ -1,4 +1,4 @@
-﻿sl C:\ExploringAspNetCore\codedeployapp\src\SampleApp
+﻿sl C:\ExploringAspNetCore\publish\codedeployapp\src\SampleApp
 
 # Restore the nuget references
 & "C:\Program Files\dotnet\dotnet.exe" restore
